@@ -15,6 +15,6 @@ You can run a ~~64bit~~ 32bit **Redis** binary using:
 
 ### Link
 
-[Redis] (https//redis.io)
+[Redis](https//redis.io)
 
 * * *
